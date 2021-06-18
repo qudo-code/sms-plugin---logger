@@ -25,10 +25,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qudo-lucas/sms-template---plugin.git"
+    "url": "git+https://github.com/qudo-lucas/sms-plugin---logger.git"
   },
   "bugs": {
-    "url": "https://github.com/qudo-lucas/sms-template---plugin"
+    "url": "https://github.com/qudo-lucas/sms-plugin---logger"
   },
-  "homepage": "https://github.com/qudo-lucas/sms-template---plugin"
+  "homepage": "https://github.com/qudo-lucas/sms-plugin---logger"
 }
