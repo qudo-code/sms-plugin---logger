@@ -1,6 +1,6 @@
 {
   "name": "sms-plugin---logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Useful logging when developing with State Machine Snacks.",
   "main": "./dist/lib/index.js",
   "module": "./dist/lib/index.mjs",
