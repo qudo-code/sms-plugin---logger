@@ -3,7 +3,7 @@
 # 🔌 Plugin Logger
 ```javascript
 import sms from "state-machine-snacks";
-import logger from "state-machine-snacks/plugins/logger";
+import logger from "sms-plugin---logger";
 
 const config = { /* ...machine config */ };
 
